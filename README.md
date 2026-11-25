@@ -7,7 +7,7 @@
 
 ## გუნდის წევრები და Git როლები
 * **გუნდის ნომერი:** ინდივიდუალური / გადაბარება (1 სტუდენტი)
-* **სტუდენტი 1 (Repo Owner / გადაბარება):** [თქვენი სახელი, გვარი] — Branch: `main`, `feature/header`, `feature/header-update`
+* **სტუდენტი 1 (Repo Owner / გადაბარება):** ლუკა ჯანელიძე — Branch: `main`, `feature/header`, `feature/header-update`
 
 ---
 
@@ -29,6 +29,6 @@
 ---
 
 ## მნიშვნელოვანი ბმულები
-* **GitHub Repository:** https://github.com/<თქვენი-username>/corporate-landing-git-workflow
+* **GitHub Repository:** https://github.com/ljanelidze007-sudo/corporate-landing-git-workflow
 * **ჩემი ინდივიდუალური Branch:** `feature/header` და `feature/header-update`
 * **ჩემი ბოლო Commit-ის ჰეში (Hash):** `<ჩასვით_ბოლო_commit_hash>`
