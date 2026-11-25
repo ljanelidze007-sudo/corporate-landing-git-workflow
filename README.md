@@ -31,4 +31,4 @@
 ## მნიშვნელოვანი ბმულები
 * **GitHub Repository:** https://github.com/ljanelidze007-sudo/corporate-landing-git-workflow
 * **ჩემი ინდივიდუალური Branch:** `feature/header` და `feature/header-update`
-* **ჩემი ბოლო Commit-ის ჰეში (Hash):** `<ჩასვით_ბოლო_commit_hash>`
+* **ჩემი ბოლო Commit-ის ჰეში (Hash):** `caf9f038fe886fcd32ffaf5d0a793fc248a7fd00`
